@@ -1,3 +1,5 @@
+![Figma Zero Point](./assets/cover.png)
+
 # Figma Zero Point
 
 A Figma plugin for organizing layers on your canvas to x=0 and y=0.
