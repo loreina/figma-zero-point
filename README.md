@@ -4,7 +4,7 @@
 
 A Figma plugin for organizing layers on your canvas to x=0 and y=0.
 
-[Install on Figma](https://www.figma.com/community/plugin/1008795501746481085)
+[Install on Figma &rarr;](https://www.figma.com/community/plugin/1008795501746481085)
 
 ## Usage
 
