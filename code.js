@@ -9,5 +9,7 @@ group.children.forEach((i) => {
     let index = parent.children.indexOf(group);
     parent.insertChild(index, i);
 });
+// Adjust viewport to zoom to fit
+figma.viewport.scrollAndZoomIntoView([group]);
 // Close plugin
 figma.closePlugin();

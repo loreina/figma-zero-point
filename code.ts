@@ -15,5 +15,8 @@ group.children.forEach((i) => {
   parent.insertChild(index, i);
 });
 
+// Adjust viewport to zoom to fit
+figma.viewport.scrollAndZoomIntoView([group]);
+
 // Close plugin
 figma.closePlugin();
