@@ -1,12 +1,6 @@
 {
   "name": "zero-point",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Figma plugin for organizing layers on your canvas to x=0 and y=0.",
-  "main": "code.js",
-  "scripts": {
-    "build": "tsc -p tsconfig.json"
-  },
-  "devDependencies": {
-    "@figma/plugin-typings": "^1.28.0"
-  }
+  "main": "code.js"
 }
