@@ -3,5 +3,7 @@
   "id": "1008795501746481085",
   "api": "1.0.0",
   "main": "code.js",
-  "editorType": ["figma"]
+  "editorType": ["figma"],
+  "networkAccess": { "allowedDomains": ["none"] },
+  "documentAccess": "dynamic-page"
 }
